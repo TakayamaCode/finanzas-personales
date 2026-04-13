@@ -1,21 +1,24 @@
+
+> ⚠️ Legacy project from my early learning stage in web development and SQL.  
+> Current focus: System Administration, Infrastructure and Automation.
+
+## 🧠 What I learned
+
+- SQL database design and queries  
+- Basic CRUD logic  
+- Data structuring and organization  
+
+---
+
 \# 💰 Sistema de Finanzas Personales
-
-
 
 Proyecto personal para aprender SQL y desarrollo web construyendo un sistema CRUD de gestión de finanzas.
 
-
-
 \## 📋 Descripción
-
-
 
 Sistema para registrar y analizar gastos personales, creado como proyecto de aprendizaje siguiendo el curso de SQL de W3Schools.
 
-
-
 \## 🛠️ Tecnologías
-
 
 
 \- \*\*Base de Datos:\*\* MySQL 8.0
@@ -23,7 +26,6 @@ Sistema para registrar y analizar gastos personales, creado como proyecto de apr
 \- \*\*Frontend:\*\* HTML, CSS, JavaScript (próximamente)
 
 \- \*\*Backend:\*\* Node.js + Express (próximamente)
-
 
 
 \## 📂 Estructura del Proyecto
